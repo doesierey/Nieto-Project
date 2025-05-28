@@ -1,6 +1,7 @@
 # Nieto-Project
-#TEECE 2 Capstone Project
-#Lifestyle and Learning – Predicting Student Performance
+TEECE 2 Capstone Project
+
+Lifestyle and Learning – Predicting Student Performance
 
 I. Introduction
 This project utilizes a simulated dataset of 1,000 student records sourced from Kaggle. Each record
